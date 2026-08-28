@@ -78,3 +78,5 @@ anything — it's a self-contained file.
 
 MIT — see [LICENSE](LICENSE). Taxon names reflect standard, publicly available fungal
 reference taxonomy.
+
+## 🌐 Live demos - **[Read the full tutorial →](https://giozanna.github.io/sunburst-taxonomy-tutorial/sunburst_tutorial.html)** — the narrated walkthrough with all the explanations - **[View just the chart →](https://giozanna.github.io/sunburst-taxonomy-tutorial/output/sunburst_demo.html)** — standalone interactive sunburst, opens instantly - **[Try the Shiny app →](https://giozanna.shinyapps.io/sunburst-taxonomy-tutorial/)** — filter by sample
